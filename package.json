@@ -1,0 +1,17 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "01 hw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Yaroslav Rebrina",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.22"
+  }
+}
